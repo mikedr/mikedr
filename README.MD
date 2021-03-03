@@ -1,4 +1,4 @@
-:es:
+:flag-es: 
 # Hola!
 
 Mi nombre es Miguel De Rosa, soy Ingeniero en Computación de Argentina :argentina:. Desde 2015 me dedico a la programación, principalmente Back-End.
