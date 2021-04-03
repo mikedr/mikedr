@@ -6,7 +6,7 @@ Mi nombre es Miguel De Rosa, soy Ingeniero en Computación de Argentina :argenti
 Voy a estar subiendo algunos repositorios a modo de ejemplo de las cosas que hago por si le sirven a alguien.
 
 
-:eng:
+:gb:
 # Hello!
 
 My name is Miguel De Rosa, I'm Computer engineer from Argentina :argentina:. I've been a programmer since 2015, mainly back end. 
